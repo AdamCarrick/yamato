@@ -1,0 +1,20 @@
+Opening scene :
+	Camera Follows a fleet of alien bombers 
+		Camera Zooms over the bombers to their target
+
+	Camera rotates around the yamato half burried in soil
+		The Yamatos Main guns stir to life sheeding piles of rock and rubble
+			Aim and fire at the incoming fleet
+
+		The Ground rumbles As the yamato comes to life and starts firing
+
+	Camera returns to the bombers as they take fire
+
+	As the bombers reach the yamato it lifts from the dirt
+		The yamatos AA guns put up a hail of fire lighting up the sky
+
+	Camera Zooms to the Yamatos Launch Bays as fighters start to emerge 
+		Camera Follows a Cosmo figher as a small fleet move to engage the enemy
+
+	Camera Moves to a distance and follows the battle until the enemys are destroyed
+		Figheters return to the yamato and the yamato heads for orbit where it gos to faster than light and dissapears into Deep space
